@@ -7,7 +7,7 @@ public class Main {
         int N,K,result;
         N=scanner.nextInt();
         K=scanner.nextInt();
-
+//asdq
         System.out.println(result = (getFactorial(N))/(getFactorial(K)*getFactorial(N-K)));
     }
 
